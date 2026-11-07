@@ -5,42 +5,25 @@ Graduated from the «Moscow School of Programmers»
 
 UwU7
 
-### 🚀 Обо мне
-Я начинающий разработчик, увлеченный созданием [укажите сферу, например: веб-приложений / мобильных игр / анализом данных]. Сейчас я активно учусь, пишу пет-проекты и развиваю свои навыки в [основной язык, например: Python / JavaScript].
 
-- 🎯 **Текущая цель:** Изучаю [технологию, например: React, Docker, FastAPI]
-- 💼 **Открыт для предложений:** Ищу стажировку или Junior-позицию
-- 🌱 **Интересы:** Помимо кода, я увлекаюсь [ваше хобби, например: шахматами, киберспортом, чтением]
 
----
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-### 🛠️ Мой стек технологий
 
-<!-- Иконки навыков. Можно заменить под свой стек. Источник: devicons -->
-<p align="left">
-  <img src="https://jsdelivr.net" height="40" alt="python"  />
-  <img src="https://jsdelivr.net" height="40" alt="javascript" />
-  <img src="https://jsdelivr.net" height="40" alt="react" />
-  <img src="https://jsdelivr.net" height="40" alt="git" />
-  <img src="https://jsdelivr.net" height="40" alt="postgres" />
-</p>
+![Моя статистика GitHub](https://vercel.app)
 
----
 
-### 📊 Моя статистика на GitHub
+<i class="devicon-c-original"></i>  - **C**
 
-<!-- Статистика генерируется автоматически, замените username на ваш ник на GitHub -->
-<p align="left">
-  <img src="https://vercel.app" alt="GitHub Stats" height="160" />
-  <img src="https://vercel.app" alt="Top Langs" height="160" />
-</p>
+<i class="devicon-cplusplus-plain"></i> - **C++**
+          
+<i class="devicon-python-plain"></i>  - **Python**
+          
+          
+<i class="devicon-bash-plain"></i> - **Bash**
 
----
 
-### 📫 Как со мной связаться
-
-<p align="left">
-  <a href="https://t.me" target="blank"><img src="https://shields.io" alt="Telegram" /></a>
-  <a href="mailto:ваш_email@example.com"><img src="https://shields.io" alt="Gmail" /></a>
-  <a href="https://linkedin.com" target="blank"><img src="https://shields.io" alt="LinkedIn" /></a>
-</p>
+<i class="devicon-ubuntu-plain"></i> - **Use Ubuntu**
+          
+<i class="devicon-java-plain"></i> - **Java**
+          
